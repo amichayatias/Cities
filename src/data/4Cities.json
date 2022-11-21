@@ -1,0 +1,30 @@
+[  
+  {  
+    "id": 1,  
+    "name": "jerusalem",  
+    "timeZone": 0 ,
+    "sign":"+",
+    "show":true 
+  },  
+  {  
+    "id": 2,  
+    "name": "new york", 
+    "timeZone": 7,
+    "sign":"-",
+    "show":true  
+  },  
+  {  
+    "id": 3,  
+    "name": "london",  
+    "timeZone": 2 ,
+    "sign":"-" ,
+    "show":true  
+  },  
+  {  
+    "id": 4,  
+    "name": "tokyo",  
+    "timeZone": 7  ,
+    "sign":"+" ,
+    "show":true 
+  }
+]  
